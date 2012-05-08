@@ -1,0 +1,1 @@
+require 'faye_server'

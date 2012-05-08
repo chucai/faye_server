@@ -1,0 +1,13 @@
+FayeServer
+==========
+
+此插件用于与faye的集成，能发送简单的消息(json)格式，并且能生成唯一的频道
+
+
+实例
+=======
+
+
+
+
+Copyright (c) 2012 [hexudong08@gmail.com], released under the MIT license

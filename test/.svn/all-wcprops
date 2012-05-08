@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/yidu/!svn/ver/45/trunk/web/vendor/plugins/faye_server/test
+END
+test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/yidu/!svn/ver/45/trunk/web/vendor/plugins/faye_server/test/test_helper.rb
+END
+faye_server_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/yidu/!svn/ver/45/trunk/web/vendor/plugins/faye_server/test/faye_server_test.rb
+END
